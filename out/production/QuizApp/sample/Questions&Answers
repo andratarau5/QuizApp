@@ -1,0 +1,54 @@
+1 Can we compare int variable with a boolean variable?
+A True
+B False
+
+2 What is the default value of byte variable?
+A 0
+B 0.0
+C null
+D undefined
+
+3 What is an Interface?
+A An interface is a collection of abstract methods.
+B Interface is an abstract class.
+C Interface is an concrete class.
+D None of the above.
+
+4 Which arithmetic operations can result in the throwing of an ArithmeticException?
+A / , %
+B * , +
+C ! , -
+D >>, <<
+
+5 Can we have two public classes in one java file?
+A True
+B False
+
+6 What is an abstract class?
+A An abstract class is a class without subclasses.
+B An abstract class is any superclass with more than one subclass.
+C An abstract class is a class that can not be instantiated.
+D An abstract class is another name for a base class.
+
+7 What is an abstract class?
+A An abstract class is a class without subclasses.
+B An abstract class is any superclass with more than one subclass.
+C An abstract class is a class that can not be instantiated.
+
+8 Which of the following is NOT a correct variable name?
+A 2schlech
+B Zero
+C derLetzteWertVonAllen
+D Year 2000
+
+9 To make sure that a number is positive, we determine what value:
+A current value
+B real value
+C absolute value
+D Mega value
+
+10 Which attributes have real existing objects?
+A Objects have an identity, a state and a behavior.
+B Objects have a state and a behavior.
+C Objects have a size and weight.
+D Objects have an existence.

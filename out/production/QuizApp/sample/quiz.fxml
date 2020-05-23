@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.ControllerQuiz">
+    <center>
+        <TabPane fx:id="tabPane" prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE" BorderPane.alignment="CENTER">
+            <tabs>
+                <Tab fx:id="tabQ1" text="Q1">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabQ2" text="Q2">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabQ3" text="Q3">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabQ4" text="Q4">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabQ5" text="Q5">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabQ6" text="Q6">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabQ7" text="Q7">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabQ8" text="Q8">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabQ9" text="Q9">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+                    </content>
+                </Tab>
+                <Tab fx:id="tabQ10" text="Q10">
+                    <content>
+                        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+                    </content>
+                </Tab>
+            </tabs>
+        </TabPane>
+    </center>
+</BorderPane>
